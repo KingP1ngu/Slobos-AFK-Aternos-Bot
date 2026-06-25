@@ -9,7 +9,7 @@
     "ip": "K1ngP1ngu.aternos.me",
     "port": 39155,
     "version": "26.2",
-    "try-creative": false
+    "try-creative": creative
   },
   "position": {
     "enabled": true,
